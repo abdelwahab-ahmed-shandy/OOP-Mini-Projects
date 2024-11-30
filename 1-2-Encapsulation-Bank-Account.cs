@@ -69,7 +69,7 @@ namespace Bank_Account
         }
         public void PrintInfoAccont()
         {
-            Console.WriteLine("\nThe Account Info :");
+            Console.WriteLine("\n\t(The Account Info)");
             Console.WriteLine($"Accont Number : {AccountNumber}");
             Console.WriteLine($"Owner Name : {OwnerName}");
             Console.WriteLine($"Balance : {Balance}");
@@ -79,17 +79,25 @@ namespace Bank_Account
     {
         static void Main(string[] args)
         {
-            var bankAccount = new BankAccount();
+            try
+            {
+                var bankAccount = new BankAccount();
 
-            bankAccount.AccountNumber = 1572002;
-            bankAccount.OwnerName = "Abdelwahab Ahmed Shandy";
-            bankAccount.Deposit(10000);
+                bankAccount.AccountNumber = 1572002;
+                bankAccount.OwnerName = "Abdelwahab Ahmed Shandy";
+                bankAccount.Deposit(10000);
 
-            bankAccount.PrintInfoAccont();
+                bankAccount.PrintInfoAccont();
 
-            bankAccount.Withdraw(2000);
+                bankAccount.Withdraw(2000);
 
-            bankAccount.PrintInfoAccont();
+                bankAccount.PrintInfoAccont();
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine($"Error : {ex.Message}");
+            }
+
 
         }
     }
