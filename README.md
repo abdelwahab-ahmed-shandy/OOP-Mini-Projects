@@ -18,10 +18,10 @@ This project focuses on strengthening your understanding of OOP principles by so
 
 ## 📂 Project Structure
 
-- **Challenges/**: Contains challenge descriptions and starter files.  
-- **Solutions/**: Includes example solutions with detailed explanations.  
-- **Docs/**: Documentation and guides for the challenges.
-
+- **Challenges Encapsulation /**: From   To   
+- **Challenges Inheritance /**:   From   To   
+- **Challenges Polymorphism /**:  From   To   
+- **Challenges Abstraction /**:   From   To   
 ---
 
 ## 🚀 Getting Started
