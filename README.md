@@ -1,28 +1,16 @@
-# Programming Challenges - C# Using OOP Only
+# CSharp-OOP-Mini-Projects
 
-Welcome to **Programming Challenges - C# Using OOP Only**! 🎉  
-This project is designed to help you master **Object-Oriented Programming (OOP)** concepts in **C#** through practical and engaging challenges.
-
----
-
-## 📝 Description
-
-This project focuses on strengthening your understanding of OOP principles by solving various programming challenges. Each challenge highlights one or more of the following OOP pillars:
-
-1. **Encapsulation**: Manage access to data using properties and methods.  
-2. **Inheritance**: Reuse and organize code efficiently through parent and child classes.  
-3. **Polymorphism**: Implement flexible and scalable solutions using interfaces and method overriding.  
-4. **Abstraction**: Simplify complex systems using abstract classes and interfaces.
+## 🛠️ Introduction
+Welcome to **CSharp-OOP-Mini-Projects**!  
+This repository features a collection of small projects designed to help you understand the core principles of Object-Oriented Programming (**OOP**) using **C#**. Whether you're a beginner or looking for practical examples of OOP, you'll find this repository helpful.
 
 ---
 
-## 📂 Project Structure
+## 🎯 Purpose
+- Learn **OOP concepts** such as inheritance, encapsulation, polymorphism, and abstraction.
+- Practice applying these concepts through focused, real-world projects.
+- Improve your coding skills by organizing and structuring clean and maintainable code.
 
-- **Challenges Encapsulation /** 
-- **Challenges Inheritance /**   
-- **Challenges Polymorphism /**  
-- **Challenges Abstraction /**  
----
 
 ## 🚀 Getting Started
 
@@ -30,12 +18,10 @@ This project focuses on strengthening your understanding of OOP principles by so
 - A C# development environment (e.g., Visual Studio, Visual Studio Code).  
 - Basic knowledge of C# programming and OOP concepts.  
 
-### How to Use
-1. Clone this repository:  
+## 🚀 How to Get Started
+1. Clone the repository:
    ```bash
-   git clone https://github.com/abdelwahab-shandy/Programming-Challenges-CSharp.git
-   cd Programming-Challenges-CSharp
-
+   git clone https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects.git
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-shandy/)
