@@ -1,0 +1,14 @@
+E:\Mini Projects BackEnd\Car Management\bin\Debug\net8.0\Car Management.exe
+E:\Mini Projects BackEnd\Car Management\bin\Debug\net8.0\Car Management.deps.json
+E:\Mini Projects BackEnd\Car Management\bin\Debug\net8.0\Car Management.runtimeconfig.json
+E:\Mini Projects BackEnd\Car Management\bin\Debug\net8.0\Car Management.dll
+E:\Mini Projects BackEnd\Car Management\bin\Debug\net8.0\Car Management.pdb
+E:\Mini Projects BackEnd\Car Management\obj\Debug\net8.0\Car Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mini Projects BackEnd\Car Management\obj\Debug\net8.0\Car Management.AssemblyInfoInputs.cache
+E:\Mini Projects BackEnd\Car Management\obj\Debug\net8.0\Car Management.AssemblyInfo.cs
+E:\Mini Projects BackEnd\Car Management\obj\Debug\net8.0\Car Management.csproj.CoreCompileInputs.cache
+E:\Mini Projects BackEnd\Car Management\obj\Debug\net8.0\Car Management.dll
+E:\Mini Projects BackEnd\Car Management\obj\Debug\net8.0\refint\Car Management.dll
+E:\Mini Projects BackEnd\Car Management\obj\Debug\net8.0\Car Management.pdb
+E:\Mini Projects BackEnd\Car Management\obj\Debug\net8.0\Car Management.genruntimeconfig.cache
+E:\Mini Projects BackEnd\Car Management\obj\Debug\net8.0\ref\Car Management.dll
