@@ -24,6 +24,7 @@ This repository features a collection of small projects designed to help you und
    git clone https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects.git
 
 ## 📫 Connect with Me
+If you benefit from something, do not forget to pray for me and my parents.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-shandy/)
 [![Medium](https://img.shields.io/badge/-Medium-00AB6C?logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/abdelwahab-shandy)
