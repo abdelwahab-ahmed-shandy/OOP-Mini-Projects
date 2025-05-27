@@ -1,0 +1,14 @@
+E:\Mini Projects BackEnd\Library Management\bin\Debug\net8.0\Library Management.exe
+E:\Mini Projects BackEnd\Library Management\bin\Debug\net8.0\Library Management.deps.json
+E:\Mini Projects BackEnd\Library Management\bin\Debug\net8.0\Library Management.runtimeconfig.json
+E:\Mini Projects BackEnd\Library Management\bin\Debug\net8.0\Library Management.dll
+E:\Mini Projects BackEnd\Library Management\bin\Debug\net8.0\Library Management.pdb
+E:\Mini Projects BackEnd\Library Management\obj\Debug\net8.0\Library Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mini Projects BackEnd\Library Management\obj\Debug\net8.0\Library Management.AssemblyInfoInputs.cache
+E:\Mini Projects BackEnd\Library Management\obj\Debug\net8.0\Library Management.AssemblyInfo.cs
+E:\Mini Projects BackEnd\Library Management\obj\Debug\net8.0\Library Management.csproj.CoreCompileInputs.cache
+E:\Mini Projects BackEnd\Library Management\obj\Debug\net8.0\Library Management.dll
+E:\Mini Projects BackEnd\Library Management\obj\Debug\net8.0\refint\Library Management.dll
+E:\Mini Projects BackEnd\Library Management\obj\Debug\net8.0\Library Management.pdb
+E:\Mini Projects BackEnd\Library Management\obj\Debug\net8.0\Library Management.genruntimeconfig.cache
+E:\Mini Projects BackEnd\Library Management\obj\Debug\net8.0\ref\Library Management.dll

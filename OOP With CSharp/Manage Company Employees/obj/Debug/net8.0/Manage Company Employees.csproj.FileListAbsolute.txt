@@ -1,0 +1,14 @@
+E:\Mini Projects BackEnd\Manage Company Employees\bin\Debug\net8.0\Manage Company Employees.exe
+E:\Mini Projects BackEnd\Manage Company Employees\bin\Debug\net8.0\Manage Company Employees.deps.json
+E:\Mini Projects BackEnd\Manage Company Employees\bin\Debug\net8.0\Manage Company Employees.runtimeconfig.json
+E:\Mini Projects BackEnd\Manage Company Employees\bin\Debug\net8.0\Manage Company Employees.dll
+E:\Mini Projects BackEnd\Manage Company Employees\bin\Debug\net8.0\Manage Company Employees.pdb
+E:\Mini Projects BackEnd\Manage Company Employees\obj\Debug\net8.0\Manage Company Employees.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mini Projects BackEnd\Manage Company Employees\obj\Debug\net8.0\Manage Company Employees.AssemblyInfoInputs.cache
+E:\Mini Projects BackEnd\Manage Company Employees\obj\Debug\net8.0\Manage Company Employees.AssemblyInfo.cs
+E:\Mini Projects BackEnd\Manage Company Employees\obj\Debug\net8.0\Manage Company Employees.csproj.CoreCompileInputs.cache
+E:\Mini Projects BackEnd\Manage Company Employees\obj\Debug\net8.0\Manage Company Employees.dll
+E:\Mini Projects BackEnd\Manage Company Employees\obj\Debug\net8.0\refint\Manage Company Employees.dll
+E:\Mini Projects BackEnd\Manage Company Employees\obj\Debug\net8.0\Manage Company Employees.pdb
+E:\Mini Projects BackEnd\Manage Company Employees\obj\Debug\net8.0\Manage Company Employees.genruntimeconfig.cache
+E:\Mini Projects BackEnd\Manage Company Employees\obj\Debug\net8.0\ref\Manage Company Employees.dll
